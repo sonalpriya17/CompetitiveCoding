@@ -1,6 +1,6 @@
 package Array;
 
-import com.sun.tools.corba.se.idl.constExpr.Not;
+
 
 public class StringPalindrom {
     public static void main(String[] args) {
